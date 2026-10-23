@@ -76,3 +76,4 @@ QuickChat.main(args);
         input.close();
     }
 }
+//"Add user registration and login features with validation
