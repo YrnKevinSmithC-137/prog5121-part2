@@ -14,7 +14,7 @@ public class chat {
         Scanner input = new Scanner(System.in);
         
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-        System.out.println("       Welcome to LeonChat!       ");
+        System.out.println("       Welcome to kevinChat!       ");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("");
         
