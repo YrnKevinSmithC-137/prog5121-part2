@@ -123,3 +123,4 @@ public class MessageTest {
 }
 //Add unit tests for Message class
 //Add complete unit test suite for Message and MessageManager classes"
+//Refactor message handling and update documentation"
