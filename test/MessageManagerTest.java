@@ -168,3 +168,4 @@ public class MessageManagerTest {
     }
 }
 //Add unit tests for MessageManager class
+//Add advanced message management features and JSON file storage

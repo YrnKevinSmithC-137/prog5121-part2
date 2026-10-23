@@ -122,3 +122,4 @@ public class QuickChat {
     }
 }
 //Add QuickChat main app with menu and loops
+//Add QuickChat main application menu and loops

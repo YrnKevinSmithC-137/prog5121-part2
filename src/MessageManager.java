@@ -257,3 +257,4 @@ public class MessageManager {
     }
 }
 //Add searchByRecipient, deleteByHash and displayReport methods
+//Add advanced message management features and JSON file storage
