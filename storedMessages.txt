@@ -1,0 +1,40 @@
+messageID: 7851552275
+messageHash: 78:3:TESTMESSAGE
+recipient: +27718693002
+message: Test message.
+---
+messageID: 1413805881
+messageHash: 14:3:TESTMESSAGE
+recipient: +27718693002
+message: Test message.
+---
+messageID: 1520407518
+messageHash: 15:3:TESTMESSAGE
+recipient: +27718693002
+message: Test message.
+---
+messageID: 8955533181
+messageHash: 89:3:TESTMESSAGE
+recipient: +27718693002
+message: Test message.
+---
+messageID: 9235048539
+messageHash: 92:3:TESTMESSAGE
+recipient: +27718666602
+message: Test message.
+---
+messageID: 6767712614
+messageHash: 67:3:TESTMESSAGE
+recipient: +27718666602
+message: Test message.
+---
+messageID: 1421004640
+messageHash: 14:3:TESTMESSAGE
+recipient: +27718666602
+message: Test message.
+---
+messageID: 5256293639
+messageHash: 52:3:TESTMESSAGE
+recipient: +27718666602
+message: Test message.
+---
