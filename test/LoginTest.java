@@ -111,4 +111,5 @@ public class LoginTest {
             login.returnLoginStatus("wrongUser", "wrongPass")
         );
     }
+    //Add comprehensive unit tests for Login functionality
 }
