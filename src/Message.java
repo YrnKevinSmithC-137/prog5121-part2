@@ -138,3 +138,4 @@ public static void readFromJson() {
 }
 }
 //Add printMessages, returnTotalMessagess and storeMessage methods
+//Implement Message class with hashing and cell validation
